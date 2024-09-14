@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![Simulator Screenshot - iPhone 14 - 2024-09-14 at 10 30 10](https://github.com/user-attachments/assets/2feaf54d-2811-407a-849c-63a09356a9ef,width=50% height=50%)
+<img src="https://github.com/user-attachments/assets/2feaf54d-2811-407a-849c-63a09356a9ef" alt="Simulator Screenshot" width="300"/>
